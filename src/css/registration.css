@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+	padding: 0;
+	font-family: 'Montserrat' , sans-serif;
+}
+
+.reg{
+    display: block;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.name{
+    margin-top: 5px;
+}
+
+.password{
+    margin-top: 5px;
+}
+
+.email{
+    margin-top: 5px;
+}
+
+.submit{
+    margin-top: 5px;
+    float: center;
+	border: none;
+	margin-left: 5px;
+	width: 150px;
+	padding: 5px;
+	text-align: center;
+	background-color: #fd8c53;
+	color: white;
+	border-radius: 10px;
+	cursor: pointer;
+}

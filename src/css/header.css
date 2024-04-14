@@ -1,0 +1,14 @@
+header{
+	background: #181818;
+	height: 70px;
+	display: flex;
+	align-items: center;
+}
+
+.hot-container h2{
+	margin-top: 15px;
+}
+
+.last-news span{
+	margin-right: 10px;
+}
